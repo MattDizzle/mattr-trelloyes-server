@@ -5,7 +5,7 @@ const bodyParser = express.json();
 const logger = require('../logger')
 const { cards, lists } = require('../store')
 
-app.use(express.json());
+// app.use(express.json());
 
 cardRouter
   .route('/card')
