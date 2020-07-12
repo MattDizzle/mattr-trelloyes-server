@@ -15,6 +15,9 @@
     "url": "git+https://github.com/thinkful-ei-panda/mattr-boilerplate.git"
   },
   "keywords": [],
+  "engines": {
+    "node": "12.16.3"
+  }
   "author": "",
   "license": "ISC",
   "bugs": {
